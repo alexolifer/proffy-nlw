@@ -5,8 +5,10 @@
 
 # :computer: Technologies
 <ul>
-  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+ <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+  <li><a href="https://reactjs.org/">ReactJS</a></li>
   <li><a href="https://reactnative.dev/">React Native</a></li>
+  <li><a href="https://expo.io/">Expo</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
 
@@ -43,3 +45,21 @@ $ yarn install
 $ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
+
+### 📱 Run Mobile Project
+
+To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
+<br />
+After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
+
+```bash
+# Go to mobile folder
+$ cd proffy-nlw/mobile
+
+# Install Dependencies
+$ yarn install
+
+# Run Aplication
+$ yarn start
+```
+Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
